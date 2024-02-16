@@ -24,8 +24,6 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img  src="https://activity-graph.herokuapp.com/graph?username=brimell&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS%20Code-blue)
